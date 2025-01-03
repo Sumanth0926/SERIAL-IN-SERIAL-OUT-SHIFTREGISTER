@@ -70,7 +70,7 @@ RegisterNumber: 24000831
 ![Screenshot 2025-01-03 135846](https://github.com/user-attachments/assets/780ebd5d-5b67-4554-843b-539d43795869)
 
 
-**TIMING DIGRAMS FOR SISO Shift Register**
+**TIMING DIAGRAMS FOR SISO Shift Register**
 
 
 ![Screenshot 2025-01-03 135855](https://github.com/user-attachments/assets/183b468a-6d15-44a8-8b4b-3ce83ac87ac1)
